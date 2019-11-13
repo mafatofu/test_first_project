@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-asdf<br>
-+test
+	팀원쪽에서 작성한 jsp파일입니다.<br>
 </body>
 </html>
